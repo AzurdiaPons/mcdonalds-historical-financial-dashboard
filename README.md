@@ -21,25 +21,25 @@ El tablero utiliza un diseño ejecutivo de UX/UI minimalista, optimizado para la
 ### 1. Vista General del Tablero (Consolidado 2015–2022)
 *Visualización global del modelo financiero y los KPIs principales.*
 
-![Dashboard General](assets/dash1.jpg)
+![Dashboard General](assets/dash1_2.jpg)
 
 
 ### 2. ⚠️ Estado de Alerta / Contracción (2015, 2018, 2020, 2022)
 *Foco en periodos de presión sobre márgenes y niveles elevados de apalancamiento/riesgo.*
 
-![Dashboard Contracción](assets/dash2.jpg)
+![Dashboard Contracción](assets/dash2_2.jpg)
 
 
 ### 3. 🟢 Estado Saludable / Expansión (2019, 2021)
 *Destaca el dinamismo positivo, especialmente el repunte de ganancias y eficiencia en el año 2021.*
 
-![Dashboard Expansión](assets/dash3.jpg)
+![Dashboard Expansión](assets/dash3_2.jpg)
 
 
 ### 4. 🔄 Estado Transición / Mixto (2016, 2017)
 *Años bisagra de estabilización donde los ingresos moderan su tendencia previa y las ganancias se mantienen resilientes.*
 
-![Dashboard Transición](assets/dash4.jpg)
+![Dashboard Transición](assets/dash4_2.jpg)
 
 
 ---
@@ -74,7 +74,7 @@ El modelo interactivo permite clasificar el desempeño anual de la compañía en
 ## 📂 Estructura del Repositorio
 * `/powerbi`: Archivo `.pbix` con el desarrollo completo del reporte interactivo.
 * `/sql`: Scripts de consultas y vistas utilizadas para alimentar el modelo.
-* `/assets`: Capturas de pantalla e imágenes de los diferentes estados del dashboard (`dash1.jpg`, `dash2.jpg`, `dash3.jpg`, `dash4.jpg`).
+* `/assets`: Capturas de pantalla e imágenes de los diferentes estados del dashboard (`dash1_2.jpg`, `dash2_2.jpg`, `dash3_2.jpg`, `dash4_2.jpg`).
 * `/docs`: Documentación técnica de soporte.
 
 ---
