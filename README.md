@@ -21,28 +21,27 @@ El tablero utiliza un diseño ejecutivo de UX/UI minimalista, optimizado para la
 ### 1. Vista General del Tablero (Consolidado 2015–2022)
 *Visualización global del modelo financiero y los KPIs principales.*
 
-![Dashboard General](assets/dash1_2.jpg)
+<img width="1201" height="692" alt="dash1" src="https://github.com/user-attachments/assets/32375ac3-b709-4e4e-a192-062062065559" />
+
 
 
 ### 2. ⚠️ Estado de Alerta / Contracción (2015, 2018, 2020, 2022)
 *Foco en periodos de presión sobre márgenes y niveles elevados de apalancamiento/riesgo.*
 
-![Dashboard Contracción](assets/dash2_2.jpg)
+<img width="1208" height="690" alt="dash2" src="https://github.com/user-attachments/assets/6954d661-13be-41f4-ac8d-57332ccea244" />
 
 
 ### 3. 🟢 Estado Saludable / Expansión (2019, 2021)
 *Destaca el dinamismo positivo, especialmente el repunte de ganancias y eficiencia en el año 2021.*
 
-![Dashboard Expansión](assets/dash3_2.jpg)
+<img width="1212" height="703" alt="dash3" src="https://github.com/user-attachments/assets/0fcb8d80-38e2-4585-ae79-b515bbaa1268" />
 
 
 ### 4. 🔄 Estado Transición / Mixto (2016, 2017)
 *Años bisagra de estabilización donde los ingresos moderan su tendencia previa y las ganancias se mantienen resilientes.*
 
-![Dashboard Transición](assets/dash4_2.jpg)
+<img width="1205" height="733" alt="dash4" src="https://github.com/user-attachments/assets/e01539f1-6dbc-4767-aa70-f64948ed2151" />
 
-
----
 
 ## 📈 Hallazgos y Análisis Financiero por Estados Clave
 
