@@ -76,5 +76,12 @@ El modelo interactivo permite clasificar el desempeño anual de la compañía en
 * `/assets`: Capturas de pantalla e imágenes de los diferentes estados del dashboard (`dash1_2.jpg`, `dash2_2.jpg`, `dash3_2.jpg`, `dash4_2.jpg`).
 * `/docs`: Documentación técnica de soporte.
 
+* ## 🌐 Origen de los Datos
+Los datos financieros utilizados en este proyecto fueron extraídos de **https://www.kaggle.com/datasets/mikhail1681/mcdonalds-financial-statements-2002-2022**, garantizando la fiabilidad de la información histórica analizada.
+
+## 📬 Contacto
+
+* **Email:** Ponsjulio2@gmail.com
+
 ---
 *Desarrollado con enfoque analítico para la toma de decisiones estratégicas.*
